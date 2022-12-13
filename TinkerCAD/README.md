@@ -1,4 +1,4 @@
-Inside will a be a video showing hte circuits in action and a screenshot of the circuit.  
+Inside will a be a video showing the circuits in action and a screenshot of the circuit.  
 
 TinkerCAD share link: https://www.tinkercad.com/things/d1QnOMRU7o8?sharecode=pGjxqttbUxOkMAPiFb5cGF-ebIO9holbkKkTZ9htzvM  
 
